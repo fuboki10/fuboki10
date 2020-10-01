@@ -39,4 +39,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuboki10&exclude_repo=MachineLearning-Andrew-Ng&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![](https://github-readme-stats.vercel.app/api?username=fuboki10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
