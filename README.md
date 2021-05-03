@@ -13,11 +13,15 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Chato App.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything..
+I am Abdelrahman Tarek, a Computer Engineering Student at the Faculty of Engineering Cairo University (2017 - 2022)
+
+I am passionate about Back-End development and Problem-solving.
+
+Participated in many programming competitions like ACM-ACPC, ACM-ECPC, Google CodeJam, ...etc,         Solved +1000 programming problems on different online judges like Codeforces, Hackerrank, UVA, Leetcode, ...etc.
+
+Currently working as a Competitive Programming Instructor @Coach_Academy.
+ 
+I love writing clean and maintainable code and learning new technologies, techniques, and design principles. 
 
 [![Linkedin: Abdelrahman Tarek](https://img.shields.io/badge/-Tarek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-tarek-92b820157/)](https://www.linkedin.com/in/abdelrahman-tarek-92b820157/)
 [![GitHub Abdelrahman Tarek](https://img.shields.io/github/followers/fuboki10?label=follow&style=social)](https://github.com/fuboki10)
