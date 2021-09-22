@@ -18,8 +18,7 @@ I am Abdelrahman Tarek, a Computer Engineering Student at the Faculty of Enginee
 I am passionate about Back-End development and Problem-solving.
 
 Participated in many programming competitions like ACM-ACPC, ACM-ECPC, Google CodeJam, ...etc,         Solved +1000 programming problems on different online judges like Codeforces, Hackerrank, UVA, Leetcode, ...etc.
-
-Currently working as a Competitive Programming Instructor @Coach_Academy.
+Currently working as a Competitive Programming Instructor @Coach_Academy and Software Engineer Intern @MasterMicro.
  
 I love writing clean and maintainable code and learning new technologies, techniques, and design principles. 
 
